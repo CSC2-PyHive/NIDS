@@ -21,3 +21,12 @@ Install the necessary libraries using pip:
 
 ```bash
 pip install scapy pandas matplotlib
+```
+
+## Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/CSC2-PyHive/NIDS.git
+   cd NIDS
